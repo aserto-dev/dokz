@@ -2897,8 +2897,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@aserto/aserto-react-components/dist/components/navbar/styles.d.ts": {
-        "version": "467a8ac4904d6e77b33297fff1c5f4c29d21aff3d7c50e1c70ac6c88c6f7131b",
-        "signature": "467a8ac4904d6e77b33297fff1c5f4c29d21aff3d7c50e1c70ac6c88c6f7131b",
+        "version": "ee2fd7301a27f851c19c6e83fbe66d747c5436cf0099a878c2176e6c297a4ae5",
+        "signature": "ee2fd7301a27f851c19c6e83fbe66d747c5436cf0099a878c2176e6c297a4ae5",
         "affectsGlobalScope": false
       },
       "../node_modules/@aserto/aserto-react-components/dist/index.d.ts": {
