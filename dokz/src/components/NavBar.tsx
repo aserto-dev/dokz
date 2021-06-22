@@ -33,8 +33,6 @@ export const ColorModeSwitch = ({ ...rest }) => {
     return (
         <IconButton
             variant='ghost'
-            color='current'
-            // ml='2'
             fontSize='20px'
             aria-label={`Switch to ${
                 colorMode === 'light' ? 'dark' : 'light'
@@ -42,6 +40,11 @@ export const ColorModeSwitch = ({ ...rest }) => {
             onClick={toggleColorMode}
             icon={colorMode === 'light' ? <FiMoon /> : <FiSun />}
             {...rest}
+            backgroundColor="transparent"
+            _hover={{
+                backgroundColor:"transparent"
+            }}
+            color="#e7e7e7"
         />
     )
 }

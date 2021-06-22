@@ -14,7 +14,7 @@ import {
     CSSReset,
     GlobalStyle,
     theme,
-    ThemeProvider,
+    ThemeProvider, useColorMode,
 } from '@chakra-ui/react'
 
 import { PrismTheme } from 'prism-react-renderer'
@@ -178,6 +178,7 @@ export function useAnimationComponent() {
 export function DokzProvider({ children, ...rest }: DokzProviderProps) {
     const ctx = { ...defaultDokzContext, ...rest }
     const { mdxComponents: userMDXComponents = {}, initialColorMode } = ctx
+    const { colorMode } = useColorMode()
     useRouterScroll()
     const router = useRouter()
     useEffect(() => {
@@ -198,7 +199,7 @@ export function DokzProvider({ children, ...rest }: DokzProviderProps) {
             <MDXProvider
                 components={{ ...MDXComponents, ...userMDXComponents }}
             >
-                {children}
+                <Box className={`${colorMode}-scrollbar` }>{children}</Box>
             </MDXProvider>
         </DokzContext.Provider>
     )
