@@ -2957,7 +2957,7 @@
         "affectsGlobalScope": false
       },
       "./src/provider.tsx": {
-        "version": "7c39d4107248d253e9c86ad4a57da1546343dc2baf98492bd3c895c46608a61b",
+        "version": "8c4b856c644e054c39a1af619c0fb7093fbbbd34be2e938cbbfedcb4ec34fd12",
         "signature": "1b1766c8515dab9d671b20d057423f74901aae6b2e3e0cd35ed264d0ce271f47",
         "affectsGlobalScope": false
       },
@@ -3464,7 +3464,7 @@
     },
     "options": {
       "target": 1,
-      "module": 99,
+      "module": 1,
       "moduleResolution": 2,
       "lib": [
         "lib.es2017.d.ts",
@@ -3473,7 +3473,7 @@
         "lib.dom.d.ts"
       ],
       "declaration": true,
-      "outDir": "./esm",
+      "outDir": "./dist",
       "strict": false,
       "rootDir": "./src",
       "esModuleInterop": true,
