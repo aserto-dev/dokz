@@ -3464,7 +3464,7 @@
     },
     "options": {
       "target": 1,
-      "module": 1,
+      "module": 99,
       "moduleResolution": 2,
       "lib": [
         "lib.es2017.d.ts",
@@ -3473,7 +3473,7 @@
         "lib.dom.d.ts"
       ],
       "declaration": true,
-      "outDir": "./dist",
+      "outDir": "./esm",
       "strict": false,
       "rootDir": "./src",
       "esModuleInterop": true,
