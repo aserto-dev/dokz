@@ -59,7 +59,7 @@ const NavBar = ({ logo, tree = null as any, items: navs, ...props }) => {
         }
     })
     return (
-        <AsertoNavBar>
+        <AsertoNavBar showBrandSeparator>
             <ul>
                 {navs.map((x, i) => (
                     <NavItem key={x}>

@@ -2236,49 +2236,14 @@
         "signature": "c049825db31784c6ac8c54a28a5eefbed58217ba48e0593cecd1d3e4a2643667",
         "affectsGlobalScope": false
       },
-      "../node_modules/baby-i-am-faded/dist/index.d.ts": {
-        "version": "75561791611fdf57feebed23e4106640c6df203a8c5ec86e5911bce08a475562",
-        "signature": "75561791611fdf57feebed23e4106640c6df203a8c5ec86e5911bce08a475562",
+      "./src/components/icons.tsx": {
+        "version": "5af28b03f4311d78de5cb2413c73429dd0608387537c9fd2b9320991fa2d052d",
+        "signature": "cbebacf03fa58413edb23ff81ba6c20dc5957f761395de4079498f9cc859c41f",
         "affectsGlobalScope": false
       },
-      "../node_modules/react-icons/lib/cjs/iconsmanifest.d.ts": {
-        "version": "9af0933b1aaaa6adc78a918c56929845c51a9d08f9c707165a9170acb2ca6ccb",
-        "signature": "9af0933b1aaaa6adc78a918c56929845c51a9d08f9c707165a9170acb2ca6ccb",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/lib/cjs/iconbase.d.ts": {
-        "version": "2549ec9de97db0b737f827958cf6dbd08be95c444e070dac156930dcfe919cf7",
-        "signature": "2549ec9de97db0b737f827958cf6dbd08be95c444e070dac156930dcfe919cf7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/lib/cjs/iconcontext.d.ts": {
-        "version": "6460cd7020078dcaae752b71342a5d16df35f61f7404db53e5d176438f7880b1",
-        "signature": "6460cd7020078dcaae752b71342a5d16df35f61f7404db53e5d176438f7880b1",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/lib/cjs/index.d.ts": {
-        "version": "66d5c68894bb2975727cd550b53cd6f9d99f7cb77cb0cbecdd4af1c9332b01dd",
-        "signature": "66d5c68894bb2975727cd550b53cd6f9d99f7cb77cb0cbecdd4af1c9332b01dd",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/di/index.d.ts": {
-        "version": "6dd5d0beb112217c2b7356f40d878898925fdb095f931ab096eff3bbe0170175",
-        "signature": "6dd5d0beb112217c2b7356f40d878898925fdb095f931ab096eff3bbe0170175",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/fi/index.d.ts": {
-        "version": "845ed1c6974f75b721aec24d7b9706524387392578d632d3f6135c617bb2bd1d",
-        "signature": "845ed1c6974f75b721aec24d7b9706524387392578d632d3f6135c617bb2bd1d",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/react-icons/md/index.d.ts": {
-        "version": "f8d604686d3fdfce2eaafefbc7cef968e1a073ca14d5dbec39402fef2c9d1f82",
-        "signature": "f8d604686d3fdfce2eaafefbc7cef968e1a073ca14d5dbec39402fef2c9d1f82",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/lodash/ts3.1/orderby.d.ts": {
-        "version": "306f17bebc63d2c9a8d7f3d9d78df6561513172e95f46c997105d9407899de92",
-        "signature": "306f17bebc63d2c9a8d7f3d9d78df6561513172e95f46c997105d9407899de92",
+      "./src/types.ts": {
+        "version": "5064686309f20bc37d57889687123d1201577165ebd57da124c6c73ade221b1a",
+        "signature": "bc288f7fdd0446ae76ce39e3c5e6469d64dd52902e1a986c4c5950132f3cd0c2",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/globals.d.ts": {
@@ -2526,16 +2491,6 @@
         "signature": "d522314e80ed71b57e3c2939d3c9594eaae63a4adf028559e6574f6b270b0fee",
         "affectsGlobalScope": false
       },
-      "../node_modules/next/dist/client/link.d.ts": {
-        "version": "74587d651c85f1cc2690e5ddca3458c34d7674bea2e0ef43e2c0cd5cc354cabe",
-        "signature": "74587d651c85f1cc2690e5ddca3458c34d7674bea2e0ef43e2c0cd5cc354cabe",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/next/link.d.ts": {
-        "version": "25488ec0923fa0fd699444ad2456ce5e8b8ae66f4681f3c27da4d15dc26e28b9",
-        "signature": "25488ec0923fa0fd699444ad2456ce5e8b8ae66f4681f3c27da4d15dc26e28b9",
-        "affectsGlobalScope": false
-      },
       "../node_modules/@types/webpack/node_modules/@types/tapable/index.d.ts": {
         "version": "d558a0fe921ebcc88d3212c2c42108abf9f0d694d67ebdeba37d7728c044f579",
         "signature": "d558a0fe921ebcc88d3212c2c42108abf9f0d694d67ebdeba37d7728c044f579",
@@ -2711,6 +2666,91 @@
         "signature": "2d7d2d542a30602ad869c89e497ffc1d45ebee0352f3806833bb1a73f88a26a7",
         "affectsGlobalScope": false
       },
+      "../node_modules/baby-i-am-faded/dist/index.d.ts": {
+        "version": "75561791611fdf57feebed23e4106640c6df203a8c5ec86e5911bce08a475562",
+        "signature": "75561791611fdf57feebed23e4106640c6df203a8c5ec86e5911bce08a475562",
+        "affectsGlobalScope": false
+      },
+      "./src/provider.tsx": {
+        "version": "95074b86c9a509db448effcce5be951d42472ebc06020475f859a5438d12f012",
+        "signature": "3eb791ec2ffa4f95806016b842871727c9384d0aecef5c835945da14eba630c8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/lib/cjs/iconsmanifest.d.ts": {
+        "version": "9af0933b1aaaa6adc78a918c56929845c51a9d08f9c707165a9170acb2ca6ccb",
+        "signature": "9af0933b1aaaa6adc78a918c56929845c51a9d08f9c707165a9170acb2ca6ccb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/lib/cjs/iconbase.d.ts": {
+        "version": "2549ec9de97db0b737f827958cf6dbd08be95c444e070dac156930dcfe919cf7",
+        "signature": "2549ec9de97db0b737f827958cf6dbd08be95c444e070dac156930dcfe919cf7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/lib/cjs/iconcontext.d.ts": {
+        "version": "6460cd7020078dcaae752b71342a5d16df35f61f7404db53e5d176438f7880b1",
+        "signature": "6460cd7020078dcaae752b71342a5d16df35f61f7404db53e5d176438f7880b1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/lib/cjs/index.d.ts": {
+        "version": "66d5c68894bb2975727cd550b53cd6f9d99f7cb77cb0cbecdd4af1c9332b01dd",
+        "signature": "66d5c68894bb2975727cd550b53cd6f9d99f7cb77cb0cbecdd4af1c9332b01dd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/fi/index.d.ts": {
+        "version": "845ed1c6974f75b721aec24d7b9706524387392578d632d3f6135c617bb2bd1d",
+        "signature": "845ed1c6974f75b721aec24d7b9706524387392578d632d3f6135c617bb2bd1d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/lodash/ts3.1/startcase.d.ts": {
+        "version": "257511614ce25e8445c8c7ffedd86a618680f2a937e420403c10baa12321b92a",
+        "signature": "257511614ce25e8445c8c7ffedd86a618680f2a937e420403c10baa12321b92a",
+        "affectsGlobalScope": false
+      },
+      "./src/components/support.ts": {
+        "version": "d73d6011d5b32dee9295bd531bbd54df541d6eedbd7f0c26c7166fe0a2482e60",
+        "signature": "f2ad1498369fbf2b2acd42ba9b9c5ba938ff4ea9357c93579d795922fe05f4e7",
+        "affectsGlobalScope": false
+      },
+      "./src/components/code.tsx": {
+        "version": "141c3121fd7bdf2f9329c8320600157666bd7f39666ada20fd95aa8fa65c2d61",
+        "signature": "60229caf880ad85b47e3979a0c6694bb438c933b95d53bff7ebce317448c1098",
+        "affectsGlobalScope": false
+      },
+      "./src/components/link.tsx": {
+        "version": "b7d75568380c55054ae326e7105c386bad363ce86f540fee5e0778a1bb09f88d",
+        "signature": "af0f71a45cd60d4348f59f0afd57d2aa09256cb27c5e7b6e3f4ecb5a7c3e3c1c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/lodash/ts3.1/fp/merge.d.ts": {
+        "version": "7b0192c3307c5360b02f686de50f0b0329f303836c079879c54ac48882ab9d0f",
+        "signature": "7b0192c3307c5360b02f686de50f0b0329f303836c079879c54ac48882ab9d0f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/di/index.d.ts": {
+        "version": "6dd5d0beb112217c2b7356f40d878898925fdb095f931ab096eff3bbe0170175",
+        "signature": "6dd5d0beb112217c2b7356f40d878898925fdb095f931ab096eff3bbe0170175",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/react-icons/md/index.d.ts": {
+        "version": "f8d604686d3fdfce2eaafefbc7cef968e1a073ca14d5dbec39402fef2c9d1f82",
+        "signature": "f8d604686d3fdfce2eaafefbc7cef968e1a073ca14d5dbec39402fef2c9d1f82",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/lodash/ts3.1/orderby.d.ts": {
+        "version": "306f17bebc63d2c9a8d7f3d9d78df6561513172e95f46c997105d9407899de92",
+        "signature": "306f17bebc63d2c9a8d7f3d9d78df6561513172e95f46c997105d9407899de92",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/next/dist/client/link.d.ts": {
+        "version": "74587d651c85f1cc2690e5ddca3458c34d7674bea2e0ef43e2c0cd5cc354cabe",
+        "signature": "74587d651c85f1cc2690e5ddca3458c34d7674bea2e0ef43e2c0cd5cc354cabe",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/next/link.d.ts": {
+        "version": "25488ec0923fa0fd699444ad2456ce5e8b8ae66f4681f3c27da4d15dc26e28b9",
+        "signature": "25488ec0923fa0fd699444ad2456ce5e8b8ae66f4681f3c27da4d15dc26e28b9",
+        "affectsGlobalScope": false
+      },
       "./src/components/navlink.tsx": {
         "version": "a05f75f072d75edc8d6feb72daf5ef55c9f5316c3722463e606f4410fe02052b",
         "signature": "bbe75ae5314c7977812b7b4fe2923928869582e7a9689d691959e00ad6458c95",
@@ -2734,16 +2774,6 @@
       "../node_modules/react-storage-hooks/dist/index.d.ts": {
         "version": "9cd8171b15a95760ba6674f97d0222a6290bb43e74a54d6232e31f5a4a1b02b2",
         "signature": "9cd8171b15a95760ba6674f97d0222a6290bb43e74a54d6232e31f5a4a1b02b2",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/lodash/ts3.1/startcase.d.ts": {
-        "version": "257511614ce25e8445c8c7ffedd86a618680f2a937e420403c10baa12321b92a",
-        "signature": "257511614ce25e8445c8c7ffedd86a618680f2a937e420403c10baa12321b92a",
-        "affectsGlobalScope": false
-      },
-      "./src/components/support.ts": {
-        "version": "d73d6011d5b32dee9295bd531bbd54df541d6eedbd7f0c26c7166fe0a2482e60",
-        "signature": "f2ad1498369fbf2b2acd42ba9b9c5ba938ff4ea9357c93579d795922fe05f4e7",
         "affectsGlobalScope": false
       },
       "./src/components/sidenav.tsx": {
@@ -2907,18 +2937,8 @@
         "affectsGlobalScope": false
       },
       "./src/components/navbar.tsx": {
-        "version": "73876b6df3f55984f9e3399c928a6a00d77a9dd9d392247e4d3d2c4203ea0c2a",
+        "version": "620f1a8d386f5635bc165d7e0b258206bd3f9d1b50c1130edafc01f72019939b",
         "signature": "a27f32bb93a46dbbe79508057fbbb9df16c893755dd2022c31df11fe6e926a9d",
-        "affectsGlobalScope": false
-      },
-      "./src/components/icons.tsx": {
-        "version": "5af28b03f4311d78de5cb2413c73429dd0608387537c9fd2b9320991fa2d052d",
-        "signature": "cbebacf03fa58413edb23ff81ba6c20dc5957f761395de4079498f9cc859c41f",
-        "affectsGlobalScope": false
-      },
-      "./src/types.ts": {
-        "version": "5064686309f20bc37d57889687123d1201577165ebd57da124c6c73ade221b1a",
-        "signature": "bc288f7fdd0446ae76ce39e3c5e6469d64dd52902e1a986c4c5950132f3cd0c2",
         "affectsGlobalScope": false
       },
       "../node_modules/next/dist/next-server/lib/head.d.ts": {
@@ -2929,11 +2949,6 @@
       "../node_modules/next/head.d.ts": {
         "version": "d37d571aa706edfc60f426239c6973414ab78c194f851d43f036b0d935125687",
         "signature": "d37d571aa706edfc60f426239c6973414ab78c194f851d43f036b0d935125687",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@types/lodash/ts3.1/fp/merge.d.ts": {
-        "version": "7b0192c3307c5360b02f686de50f0b0329f303836c079879c54ac48882ab9d0f",
-        "signature": "7b0192c3307c5360b02f686de50f0b0329f303836c079879c54ac48882ab9d0f",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/lodash/ts3.1/pick.d.ts": {
@@ -2954,21 +2969,6 @@
       "./src/components/wrapper.tsx": {
         "version": "3035f785352d26cfc260176fcb398eade840f7703476be3fdc2668cb6f5eaae4",
         "signature": "cf9983079f248007bbb97cfd46f18777e54e0bf9df66ce17b39aa2de75dc2311",
-        "affectsGlobalScope": false
-      },
-      "./src/provider.tsx": {
-        "version": "8c4b856c644e054c39a1af619c0fb7093fbbbd34be2e938cbbfedcb4ec34fd12",
-        "signature": "1b1766c8515dab9d671b20d057423f74901aae6b2e3e0cd35ed264d0ce271f47",
-        "affectsGlobalScope": false
-      },
-      "./src/components/code.tsx": {
-        "version": "141c3121fd7bdf2f9329c8320600157666bd7f39666ada20fd95aa8fa65c2d61",
-        "signature": "60229caf880ad85b47e3979a0c6694bb438c933b95d53bff7ebce317448c1098",
-        "affectsGlobalScope": false
-      },
-      "./src/components/link.tsx": {
-        "version": "b7d75568380c55054ae326e7105c386bad363ce86f540fee5e0778a1bb09f88d",
-        "signature": "af0f71a45cd60d4348f59f0afd57d2aa09256cb27c5e7b6e3f4ecb5a7c3e3c1c",
         "affectsGlobalScope": false
       },
       "./src/components/mdx.tsx": {
@@ -4244,7 +4244,6 @@
         "../node_modules/@chakra-ui/react/dist/types/index.d.ts",
         "../node_modules/@types/react/index.d.ts",
         "../node_modules/baby-i-am-faded/dist/index.d.ts",
-        "../node_modules/next/head.d.ts",
         "../node_modules/next/router.d.ts",
         "../node_modules/prism-react-renderer/index.d.ts",
         "./node_modules/@types/node/fs.d.ts",
@@ -4253,8 +4252,6 @@
         "./node_modules/@types/node/util.d.ts",
         "./src/components/icons.tsx",
         "./src/components/mdx.tsx",
-        "./src/components/navbar.tsx",
-        "./src/components/wrapper.tsx",
         "./src/types.ts"
       ],
       "./src/types.ts": [

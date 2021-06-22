@@ -1,32 +1,15 @@
-import { MDXProvider } from '@mdx-js/react'
-import React, {
-    createContext,
-    useContext,
-    ReactNode,
-    ComponentType,
-    useEffect,
-    useMemo,
-} from 'react'
+import {MDXProvider} from '@mdx-js/react'
+import React, {ComponentType, createContext, ReactNode, useContext, useEffect, useMemo,} from 'react'
 import MDXComponents from './components/mdx'
-import {
-    ColorModeProvider,
-    Box,
-    CSSReset,
-    GlobalStyle,
-    theme,
-    ThemeProvider, useColorMode,
-} from '@chakra-ui/react'
+import {Box, useColorMode,} from '@chakra-ui/react'
 
-import { PrismTheme } from 'prism-react-renderer'
+import {PrismTheme} from 'prism-react-renderer'
 // import lightTheme from 'prism-react-renderer/themes/nightOwlLight'
 import darkPrismTheme from 'prism-react-renderer/themes/oceanicNext'
-import { GithubLink, ColorModeSwitch } from './components/NavBar'
-import { Arrow, ArrowEmpty } from './components/icons'
-import { DokzTableOfContents } from './types'
-import NextHead from 'next/head'
-import { useRouter } from 'next/router'
-import { PropagatedThemeProvider } from './components/Wrapper'
-import { Faded } from 'baby-i-am-faded'
+import {Arrow, ArrowEmpty} from './components/icons'
+import {DokzTableOfContents} from './types'
+import {useRouter} from 'next/router'
+import {Faded} from 'baby-i-am-faded'
 
 export type DokzProviderProps = {
     children?: any
