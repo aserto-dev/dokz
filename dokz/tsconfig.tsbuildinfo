@@ -2672,7 +2672,7 @@
         "affectsGlobalScope": false
       },
       "./src/provider.tsx": {
-        "version": "73bc2022196c22d3bfb2de2190d4d4b442bea838c825023e4482e4dd1a2c3387",
+        "version": "37eba5794909c27f9666081d44eae26399a23387f3438dd7490a79bc1df3ca20",
         "signature": "3eb791ec2ffa4f95806016b842871727c9384d0aecef5c835945da14eba630c8",
         "affectsGlobalScope": false
       },
