@@ -2,6 +2,7 @@ import {MDXProvider} from '@mdx-js/react'
 import React, {ComponentType, createContext, ReactNode, useContext, useEffect, useMemo,} from 'react'
 import MDXComponents from './components/mdx'
 import {Box, useColorMode,} from '@chakra-ui/react'
+import Prism from "prism-react-renderer/prism";
 
 import {PrismTheme} from 'prism-react-renderer'
 // import lightTheme from 'prism-react-renderer/themes/nightOwlLight'
@@ -10,6 +11,15 @@ import {Arrow, ArrowEmpty} from './components/icons'
 import {DokzTableOfContents} from './types'
 import {useRouter} from 'next/router'
 import {Faded} from 'baby-i-am-faded'
+
+// @ts-ignore
+(typeof global !== "undefined" ? global : window).Prism = Prism;
+
+require("prismjs/components/prism-kotlin");
+require("prismjs/components/prism-java");
+require("prismjs/components/prism-python");
+require("prismjs/components/prism-rego");
+require("prismjs/components/prism-csharp");
 
 export type DokzProviderProps = {
     children?: any
